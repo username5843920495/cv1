@@ -13,8 +13,7 @@ Im Alpharius.
 * VBA
 * HTML
 * CSS
-## Code example        
-
+## Code example
 ```
 function sleep(time) {
 
@@ -27,10 +26,10 @@ return day;
 
 else if (time <=24 && time >= 0 )
 return night;
-    
+
 else
 return error;
-  
+
 }
 
 console.log(sleep(10));
